@@ -39,7 +39,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-shrink" id="mainNav" style="    background: #262161;">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="https://process.dailyappsetter.com/images/icon/logo.png" alt="..." /></a>
+                <a class="" href="#page-top"><img src="assets/img/navbar-logo.jpeg" alt="..." style="max-width: 50px;" /></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -73,28 +73,22 @@
 
 <h1> Private loans done right.</h1>
 
-<hr>
+<hr style="height: 0px;">
  <p> Leading private lender in real estate loans</p>
 
- <hr>
+ <hr style="height: 0px;">
 
     <button type="button" id="" class="btn btn-primary"> Request a quote</button>
 
-        <hr>
+        <hr style="height: 0px;" >
 <button type="button" id="" class="btn btn-primary" style="width: min-content;padding: inherit;  margin: 25px;">Homeowner Occupied/Conventional Mortgages</button>
 
      <button type="button" id="" class="btn btn-primary" style="    width: min-content; margin: 25px;">Owner Occupied/Conventional Mortgages </button>    
-
-
-
-
 
 <br><br><br><br><br>
 
                     </div>
                     <div class="col">
-
-
                     <div class="two-fields">
                         <div class=" input-group ">
                             <div class="form-group">
@@ -107,7 +101,6 @@
                             </div>
                         </div>
                     </div>
-
 
                     <div class="two-fields">
                     <div class="input-group">
